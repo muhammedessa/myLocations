@@ -1,0 +1,38 @@
+[
+ {
+    "latitude":35.501308,
+    "longitude":44.39540,
+    "name" : "Rahimawa",
+    "content":"Rahimawa place"
+  },
+  {
+    "latitude":35.480343 ,
+    "longitude":44.406738,
+    "name" : "Azadi",
+    "content":"Azadi place"
+  },
+  {
+    "latitude":35.474472,
+    "longitude":44.378757,
+    "name" : "Almas",
+    "content":"Almas place"
+  },
+  {
+    "latitude":35.471396,
+    "longitude":44.390945,
+    "name" : "Ts3een",
+    "content":"Ts3een place"
+  },
+  {
+    "latitude":35.441753,
+    "longitude":44.361420,
+    "name" : "Tunis",
+    "content":"Tunis place"
+  },
+  {
+    "latitude":35.438676,
+    "longitude":44.403820,
+    "name" : "Musala",
+    "content":"Musala place"
+  }
+]
